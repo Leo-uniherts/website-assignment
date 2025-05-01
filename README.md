@@ -5,6 +5,8 @@ What does the project do?
 
 The project website "Cases-R-us" provides entertainment and a established market in providing skins for all the users where the users can choose to both buy and sell their skins or open the randomised cases. From this, an age verification is required as their are random items and an attribute thats similar to stock trading. 
 
+website link - https://leo-uniherts.github.io /website-assignment/
+
 ----------------------------------------
 
 For users:
